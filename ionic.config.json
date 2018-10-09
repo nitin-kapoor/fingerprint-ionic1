@@ -1,0 +1,8 @@
+{
+  "name": "fingerprint-aio-demo",
+  "app_id": "227c5879",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic1"
+}
